@@ -25,13 +25,15 @@ expo init --template expo-template-tabs@sdk-40 --npm
  2  components/Themed.tsx -> app/components/Themed.tsx
 
 expo install react-native-elements
-expo install expo-font
+# (may not be necessary)
+# expo install expo-font
 # expo install react-native-elements expo-font
+expo install expo-app-loading
 ```
 
 ## [The Ultimate React Native Series:](https://codewithmosh.com/courses/887220/ 'Mosh HameDani')
 
-### [Fundamental Concepts #6 Button](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')
+### [Fundamental Concepts #6 Button](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')
 
 ### [Layout #3 Detecting Orentation Changes](https://www.google.com 'useDimensions')
 
@@ -40,13 +42,13 @@ expo install expo-font
 
 ### [Styling #5 Styling Texts](https://codewithmosh.com/courses/887220/lectures/16617561 'expo install expo-font (OTF)')
 
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
-[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component  imrn  2:00 {children} rns')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
+[Styling #6 Encapsulating Styles](https://codewithmosh.com/courses/887220/lectures/16617561 'rnsf Functional Component')  
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
